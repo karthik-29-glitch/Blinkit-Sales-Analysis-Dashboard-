@@ -1,6 +1,7 @@
 🛒 Blinkit Sales Analysis Dashboard
 
 📌 Project Overview
+
 The Blinkit Sales Analysis Dashboard is a data visualization project that provides meaningful insights into sales performance, customer behavior, and outlet distribution of Blinkit (India’s last-minute delivery app).
 The dashboard helps in analyzing key business metrics and supports better decision-making through interactive and visually appealing reports.
 
