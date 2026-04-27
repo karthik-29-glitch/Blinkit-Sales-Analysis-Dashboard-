@@ -29,12 +29,6 @@ Power BI (for dashboard creation)
 Microsoft Excel / CSV (data source)
 Data Cleaning & Transformation
 Data Visualization Techniques
-📷 Dashboard Preview
-
-(Add your screenshots here)
-
-![Dashboard Screenshot](image1.png)
-![Dashboard Filtered View](image2.png)
 
 📌 Insights Gained
 Tier 3 outlets contribute the highest sales
